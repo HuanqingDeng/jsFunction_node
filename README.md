@@ -83,7 +83,8 @@ var person={
 person.sayAge(19);
 docunment.writeln(person.age);//19
 ```
-   2.函数调用模式
+ 2.函数调用模式
+
 
 当一个函数并不是一个对象的属性时，那么它就是被当作一个函数来调用的
 
